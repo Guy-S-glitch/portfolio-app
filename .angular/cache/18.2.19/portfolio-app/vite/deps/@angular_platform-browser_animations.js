@@ -1,10 +1,10 @@
 import {
   BrowserModule,
   DomRendererFactory2
-} from "./chunk-LVQL6PWU.js";
+} from "./chunk-KY2R2FDL.js";
 import {
   DOCUMENT
-} from "./chunk-KQ6H6VNM.js";
+} from "./chunk-J3KSMOZS.js";
 import {
   ANIMATION_MODULE_TYPE,
   Inject,
