@@ -17,7 +17,7 @@ export class AboutComponent implements OnInit {
   name: string = 'Guy Solomon';
 
   intro: string =
-    'Hi there! I’m a Practical Electronics Engineer | Future IDF Combat Soldier | Purpose-driven and technically skilled, combining innovation with national service.';
+    'Practical Electronics Engineer | Future IDF Combat Soldier | Purpose-driven and technically skilled, combining innovation with national service.';
   story: string = `From a young age, I excelled in electronics and technology, graduating with top marks and representing my college in national innovation events. 
 Rather than immediately pursuing a professional path, I chose to attend the pre-military academy "Chance to Change"—a decision rooted in values, leadership, and the desire to serve meaningfully. 
 The program challenged me physically and mentally, shaped my identity, and reinforced my commitment to contribute as a combat soldier. 
