@@ -1,7 +1,7 @@
 <mat-card class="contact-card">
   <h2>Contact Me</h2>
   <form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
-    <mat-form-field appearance="fill" class="full-width">
+    <mat-form-field appearance="outline" class="full-width">
       <mat-label>Name</mat-label>
       <input matInput formControlName="name" />
       <mat-error *ngIf="contactForm.get('name')?.hasError('required')">
@@ -12,7 +12,7 @@
       </mat-error>
     </mat-form-field>
 
-    <mat-form-field appearance="fill" class="full-width">
+    <mat-form-field appearance="outline" class="full-width">
       <mat-label>Email</mat-label>
       <input matInput formControlName="email" />
       <mat-error *ngIf="contactForm.get('email')?.hasError('required')">
@@ -23,7 +23,7 @@
       </mat-error>
     </mat-form-field>
 
-    <mat-form-field appearance="fill" class="full-width">
+    <mat-form-field appearance="outline" class="full-width">
       <mat-label>Message</mat-label>
       <textarea matInput formControlName="message" rows="6"></textarea>
       <mat-error *ngIf="contactForm.get('message')?.hasError('required')">
