@@ -1,18 +1,15 @@
 <section class="education-section">
   <h2>Education</h2>
   <div class="timeline">
-    <div class="timeline-entry" *ngFor="let entry of educationEntries">
-      <div class="timeline-image">
-        <img [src]="entry.imageUrl" [alt]="entry.institution + ' logo'" />
-      </div>
-      <div class="timeline-point">
-        <div class="point"></div>
-      </div>
+    <div class="timeline-item" *ngFor="let entry of educationEntries">
       <div class="timeline-content">
-        <h3>{{ entry.degree }}</h3>
-        <h4>{{ entry.institution }}</h4>
-        <span class="year">{{ entry.year }}</span>
-        <p>{{ entry.description }}</p>
+        <img [src]="entry.imageUrl" alt="{{ entry.institution }} logo" class="institution-logo" />
+        <div class="details">
+          <h3>{{ entry.degree }}</h3>
+          <h4>{{ entry.institution }}</h4>
+          <span class="year">{{ entry.year }}</span>
+          <p>{{ entry.description }}</p>
+        </div>
       </div>
     </div>
   </div>

@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-education',
   templateUrl: './education.component.html',
   styleUrls: ['./education.component.css'],
-  imports:[CommonModule],
+  imports: [CommonModule],
   standalone: true,
 })
 export class EducationComponent implements OnInit {
@@ -14,19 +14,20 @@ export class EducationComponent implements OnInit {
   ngOnInit() {}
   educationEntries = [
     {
-      year: '2022',
+      year: '2021 - 2023',
       degree: 'Diploma – Technicians and Engineers',
-      institution: 'Ashkelon University',
+      institution: 'Ort Afridar Ashkelon',
       description:
-        'Focused on software engineering, algorithms, and data structures.',
-      imageUrl: 'assets/images/Ashkelon.jpg',
+        'Completed a comprehensive diploma program focused on practical engineering and technical skills, including advanced coursework in electronics, systems analysis, and project development. Gained hands-on experience with industry-standard tools and technologies.',
+      imageUrl: '../../../assets/images/Diploma.png',
     },
     {
-      year: '2018',
-      degree: 'High School Diploma',
-      institution: 'Technological certification certificate',
-      description: 'Majored in Mathematics and Physics.',
-      imageUrl: 'assets/images/Ashkelon-high.jpg',
+      year: '2018 - 2021',
+      degree: 'Technological Certification Certificate',
+      institution: 'Ort Afridar Ashkelon',
+      description:
+        'Earned a certification in applied technology with a focus on electrical systems and practical engineering foundations. Developed strong problem-solving skills and technical knowledge through lab work and real-world applications.',
+      imageUrl: '../../../assets/images/Hasmacha.png',
     },
     // Add more entries as needed
   ];
