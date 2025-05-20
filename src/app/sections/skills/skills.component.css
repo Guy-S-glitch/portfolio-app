@@ -1,0 +1,43 @@
+.skills-section {
+    padding: 2rem;
+    background: linear-gradient(to bottom right, #f4f6fc, #e9f0f9);
+    text-align: center;
+    border-radius: 12px;
+  }
+  
+  .skills-section h2 {
+    color: #0d47a1;
+    margin-bottom: 2rem;
+  }
+  
+  .categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  .category-card {
+    width: 300px;
+    padding: 1rem;
+    background-color: #ffffff;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.05);
+    border-radius: 12px;
+  }
+  
+  .skill-item {
+    margin: 1rem 0;
+    text-align: left;
+  }
+  
+  .skill-name {
+    margin-bottom: 4px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  mat-progress-bar {
+    height: 10px;
+    border-radius: 5px;
+  }
+  
