@@ -14,7 +14,7 @@ import { ReactiveFormsModule } from '@angular/forms'; // Import ReactiveFormsMod
     MatToolbarModule,
     MatButtonModule,
     MatIconModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
   ],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
