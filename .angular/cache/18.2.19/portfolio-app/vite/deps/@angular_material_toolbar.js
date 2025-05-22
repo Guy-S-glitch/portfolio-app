@@ -1,10 +1,12 @@
 import {
-  MatCommonModule,
+  MatCommonModule
+} from "./chunk-22SYE5FW.js";
+import {
   Platform
-} from "./chunk-5QJH5NJW.js";
+} from "./chunk-HUIKECLC.js";
 import {
   DOCUMENT
-} from "./chunk-KRFF75SE.js";
+} from "./chunk-L5EJYWAT.js";
 import {
   ChangeDetectionStrategy,
   Component,
@@ -29,7 +31,7 @@ import {
   ɵɵprojection,
   ɵɵprojectionDef,
   ɵɵqueryRefresh
-} from "./chunk-5WUBRBSH.js";
+} from "./chunk-MRVSOCYD.js";
 
 // node_modules/@angular/material/fesm2022/toolbar.mjs
 var _c0 = ["*", [["mat-toolbar-row"]]];
