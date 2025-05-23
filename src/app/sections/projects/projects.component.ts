@@ -46,6 +46,79 @@ export class ProjectsComponent implements OnInit {
       previewUrl: 'https://yourecommerceapp.com',
       sourceUrl: 'https://github.com/yourusername/ecommerce-app',
     },
+    {
+      name: 'Smart Home System',
+      description:
+        'A smart home project with multiple sensors and a web interface for remote control, real-time monitoring, and chat-based interaction. detects hazards like gas leaks, fire, and break-ins, sending instant alerts to enhance safety.',
+      technologies: [
+        'Sensors',
+        'Arduino',
+        'C',
+        'PHP',
+        'Xampp',
+        'HTML',
+        'CSS',
+        'JavaScript',
+        'Python',
+      ],
+      image: 'assets/images/smart-home.png',
+      previewUrl: '',
+      sourceUrl: 'https://github.com/yourusername/smart-home-system',
+    },
+    {
+      name: 'Facial Expression & Behavior Analysis',
+      description:
+        "A Python-based project that processes an interview video to analyze the subject's facial expressions, movements, and eye contact.",
+      technologies: [
+        'Python',
+        'OpenCV',
+        'HTML',
+        'CSS',
+        'Facial Recognition',
+        'PHP',
+        'Xampp',
+      ],
+      image: 'assets/images/facial-analysis.png',
+      previewUrl: '',
+      sourceUrl: 'https://github.com/yourusername/facial-expression-analysis',
+    },
+    {
+      name: 'Electronics Lab Projects',
+      description:
+        'Hands-on lab projects including circuit analysis, Arduino prototyping, and Multisim simulations. Documented with progress reports and multimeter measurements.',
+      technologies: ['Arduino', 'Multisim', 'Circuit Design', 'Electronics'],
+      image: 'assets/images/electronics_lab.jpg',
+      previewUrl: '',
+      sourceUrl: '',
+    },
+    {
+      name: 'Python Numeric Input Utilities',
+      description:
+        'A collection of Python scripts designed to practice input validation and perform basic mathematical operations on user-provided numbers.',
+      technologies: ['Python', 'Input Validation', 'Control Flow'],
+      image: 'assets/images/python_experiences.jpg',
+      previewUrl: '',
+      sourceUrl: 'https://github.com/yourusername/python-experiences',
+    },
+    {
+      name: '4-to-1 Multiplexer in VHDL',
+      description:
+        'A simple 4-to-1 multiplexer implemented in VHDL using behavioral architecture with select signals and conditional assignment.',
+      technologies: ['VHDL', 'Quartus', 'FPGA'],
+      image: 'assets/images/vhdl_design.jpg',
+      previewUrl: '',
+      sourceUrl: '',
+    },
+    {
+      name: 'Signal Processing - Time-Domain Transformations',
+      description:
+        'A project focused on applying core signal processing techniques such as time shifting, time reversal, and time scaling.',
+      technologies: ['Signal Processing', 'MATLAB', 'Time-Domain Analysis'],
+      image: 'assets/images/signal_processing.jpg',
+      previewUrl: '',
+      sourceUrl: '',
+    },
+
     // Add more projects as needed
   ];
 
