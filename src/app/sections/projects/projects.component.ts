@@ -13,7 +13,8 @@ export class ProjectsComponent implements OnInit {
   projects = [
     {
       name: 'Portfolio Website',
-      description: 'A personal portfolio website built with Angular and SCSS.',
+      description:
+        'personal portfolio built with Angular. Designed to showcase projects, skills, and experience with a minimalist layout.',
       technologies: ['Angular', 'CSS', 'HTML'],
       image: 'assets/images/portfolio.png',
       previewUrl: 'https://yourportfolio.com',
