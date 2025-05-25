@@ -1,51 +1,50 @@
 import { Component, OnInit } from '@angular/core';
 import { ScrollingModule } from '@angular/cdk/scrolling';
 import { CommonModule } from '@angular/common';
+import { SafeUrlPipe } from './safe-url.pipe';
 @Component({
   selector: 'app-projects',
-  imports: [CommonModule, ScrollingModule],
+  imports: [CommonModule, ScrollingModule, SafeUrlPipe],
   templateUrl: './projects.component.html',
   styleUrls: ['./projects.component.css'],
   standalone: true,
 })
 export class ProjectsComponent implements OnInit {
   constructor() {}
+  selectedPreviewUrl: string | null = null;
+
   projects = [
     {
       name: 'Portfolio Website',
       description:
         'personal portfolio built with Angular. Designed to showcase projects, skills, and experience with a minimalist layout.',
       technologies: ['Angular', 'CSS', 'HTML'],
-      image: 'assets/images/portfolio.png',
-      previewUrl: 'https://yourportfolio.com',
-      sourceUrl: 'https://github.com/yourusername/portfolio',
+      previewUrl: ' ',
+      sourceUrl: 'https://github.com/Guy-S-glitch/portfolio-app',
     },
     {
       name: 'Shopping List - Recipe Book',
       description:
         'My first Angular project, focused on learning the framework fundamentals as a foundation for future independent projects.',
       technologies: ['Angular', 'CSS', 'HTML', 'Firebase'],
-      image: 'assets/images/ecommerce.png',
-      previewUrl: 'https://yourecommerceapp.com',
-      sourceUrl: 'https://github.com/yourusername/ecommerce-app',
+      previewUrl: 'assets/videos/shopping list.mp4',
+      sourceUrl: 'https://github.com/Guy-S-glitch/Shoping-list-Recipe-Book',
     },
     {
       name: 'House Finance Manager',
       description:
         'A C# WinForms application for managing family finances, featuring a virtual house with customizable residents, income, expenses, and visual financial insights.',
       technologies: ['C#', 'MySQL'],
-      image: 'assets/images/ecommerce.png',
-      previewUrl: 'https://yourecommerceapp.com',
-      sourceUrl: 'https://github.com/yourusername/ecommerce-app',
+      previewUrl: ' ',
+      sourceUrl: 'https://github.com/Guy-S-glitch/House-Finance-Manager',
     },
     {
       name: 'Bombs & Rockets game',
       description:
         'A C# console game inspired by Snakes and Ladders, featuring rockets that boost progress and bombs that cause setbacks.',
       technologies: ['C#'],
-      image: 'assets/images/ecommerce.png',
-      previewUrl: 'https://yourecommerceapp.com',
-      sourceUrl: 'https://github.com/yourusername/ecommerce-app',
+      previewUrl: ' ',
+      sourceUrl: 'https://github.com/Guy-S-glitch/BombRocketGame',
     },
     {
       name: 'Smart Home System',
@@ -62,9 +61,9 @@ export class ProjectsComponent implements OnInit {
         'JavaScript',
         'Python',
       ],
-      image: 'assets/images/smart-home.png',
       previewUrl: '',
-      sourceUrl: 'https://github.com/yourusername/smart-home-system',
+      sourceUrl:
+        'https://drive.google.com/drive/folders/1hfa5ezny00AOpq-23K9BCG1LlXaFHZIM?usp=drive_link',
     },
     {
       name: 'Facial Expression & Behavior Analysis',
@@ -79,49 +78,56 @@ export class ProjectsComponent implements OnInit {
         'PHP',
         'Xampp',
       ],
-      image: 'assets/images/facial-analysis.png',
       previewUrl: '',
-      sourceUrl: 'https://github.com/yourusername/facial-expression-analysis',
+      sourceUrl:
+        'https://drive.google.com/drive/u/0/folders/1mBzDCJYQxKFqWNn0tdRIJKo0lkTNYlum',
     },
     {
       name: 'Electronics Lab Projects',
       description:
         'Hands-on lab projects including circuit analysis, Arduino prototyping, and Multisim simulations. Documented with progress reports and multimeter measurements.',
       technologies: ['Arduino', 'Multisim', 'Circuit Design', 'Electronics'],
-      image: 'assets/images/electronics_lab.jpg',
       previewUrl: '',
-      sourceUrl: '',
+      sourceUrl:
+        'https://drive.google.com/drive/u/0/folders/10nw01I4RCbZngE40G62oDGrdGkTsuk8G',
     },
     {
       name: 'Python Numeric Input Utilities',
       description:
         'A collection of Python scripts designed to practice input validation and perform basic mathematical operations on user-provided numbers.',
       technologies: ['Python', 'Input Validation', 'Control Flow'],
-      image: 'assets/images/python_experiences.jpg',
+
       previewUrl: '',
-      sourceUrl: 'https://github.com/yourusername/python-experiences',
+      sourceUrl:
+        'https://drive.google.com/drive/u/0/folders/1VEa5b8ZsT38ycqIvzYDVJ_r3IrNCo079',
     },
     {
       name: '4-to-1 Multiplexer in VHDL',
       description:
         'A simple 4-to-1 multiplexer implemented in VHDL using behavioral architecture with select signals and conditional assignment.',
       technologies: ['VHDL', 'Quartus', 'FPGA'],
-      image: 'assets/images/vhdl_design.jpg',
       previewUrl: '',
-      sourceUrl: '',
+      sourceUrl:
+        'https://drive.google.com/drive/u/0/folders/1ub4pHUlD_3hQP14_AsormRpCaxOUkbz_',
     },
     {
       name: 'Signal Processing - Time-Domain Transformations',
       description:
         'A project focused on applying core signal processing techniques such as time shifting, time reversal, and time scaling.',
       technologies: ['Signal Processing', 'MATLAB', 'Time-Domain Analysis'],
-      image: 'assets/images/signal_processing.jpg',
       previewUrl: '',
-      sourceUrl: '',
+      sourceUrl:
+        'https://drive.google.com/drive/u/0/folders/16tQMRIS5TcbVeD84cauBC8oqbDFISOQ0',
     },
 
     // Add more projects as needed
   ];
+  openPreview(url: string) {
+    this.selectedPreviewUrl = url;
+  }
 
+  closePreview() {
+    this.selectedPreviewUrl = null;
+  }
   ngOnInit() {}
 }

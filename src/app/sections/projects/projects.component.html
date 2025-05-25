@@ -8,9 +8,21 @@
         <span *ngFor="let tech of project.technologies" class="tech-chip">{{ tech }}</span>
       </div>
       <div class="project-links">
-        <a [href]="project.previewUrl" target="_blank">Live Demo</a>
+        <a (click)="openPreview(project.previewUrl)" style="cursor:pointer;">Live Demo</a>
         <a [href]="project.sourceUrl" target="_blank">Source Code</a>
       </div>
     </div>
   </cdk-virtual-scroll-viewport>
+
+  <!-- Preview Modal -->
+  <div class="overlay" *ngIf="selectedPreviewUrl" (click)="closePreview()">
+    <div class="modal-content" (click)="$event.stopPropagation()">
+      <iframe
+        [src]="selectedPreviewUrl | safeUrl"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+      <button class="close-btn" (click)="closePreview()">×</button>
+    </div>
+  </div>
 </section>
