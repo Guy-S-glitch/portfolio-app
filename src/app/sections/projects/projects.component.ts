@@ -14,6 +14,9 @@ import { Project } from './Project';
 export class ProjectsComponent implements OnInit {
   constructor() {}
 
+  sarcasticNote: string | null = null;
+  typedNote: string = '';
+  typingInterval: any;
   selectedImages: string[] = [];
   selectedVideo: string | null = null;
   currentImageIndex = 0;
@@ -23,8 +26,8 @@ export class ProjectsComponent implements OnInit {
       description:
         'personal portfolio built with Angular. Designed to showcase projects, skills, and experience with a minimalist layout.',
       technologies: ['Angular', 'CSS', 'HTML'],
-      videoUrl: ' ',
       sourceUrl: 'https://github.com/Guy-S-glitch/portfolio-app',
+      isSelf: true,
     },
     {
       name: 'Shopping List - Recipe Book',
@@ -147,11 +150,44 @@ export class ProjectsComponent implements OnInit {
     this.selectedVideo = project.videoUrl || null;
     this.selectedImages = project.images || [];
     this.currentImageIndex = 0;
+    const sarcasticMessages = [
+      'Bold move. Previewing the portfolio app *inside* the portfolio app.',
+      'This is peak recursion. Careful, you might break the internet.',
+      "You're in the matrix now.",
+      'Inception-level stuff. Portfolio within a portfolio?',
+      "Preview the portfolio? You mean this thing you're looking at right now?",
+      'Ah yes, preview the app... while using the app. Genius.',
+      'Meta. You’re previewing the portfolio… from inside the portfolio.',
+    ];
+
+    if (project.isSelf) {
+      this.sarcasticNote =
+        sarcasticMessages[Math.floor(Math.random() * sarcasticMessages.length)];
+      this.typedNote = '';
+      clearInterval(this.typingInterval);
+      let index = 0;
+
+      this.typingInterval = setInterval(() => {
+        if (index < this.sarcasticNote!.length) {
+          this.typedNote += this.sarcasticNote![index];
+          index++;
+        } else {
+          clearInterval(this.typingInterval);
+        }
+      }, 40); // Speed of typing (ms per character)
+    } else {
+      this.sarcasticNote = null;
+      this.typedNote = '';
+    }
   }
 
   closePreview() {
     this.selectedImages = [];
     this.selectedVideo = null;
+    this.sarcasticNote = null;
+
+    this.typedNote = '';
+    clearInterval(this.typingInterval);
   }
 
   nextImage() {
@@ -164,5 +200,6 @@ export class ProjectsComponent implements OnInit {
       (this.currentImageIndex - 1 + this.selectedImages.length) %
       this.selectedImages.length;
   }
+
   ngOnInit() {}
 }

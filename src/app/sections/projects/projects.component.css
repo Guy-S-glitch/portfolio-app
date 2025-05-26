@@ -125,7 +125,7 @@
   transform: scale(1.1);
 }
 .close-btn {
-  top: 10px;
+  top: -30px;
   right: 20px;
 }
 
@@ -139,4 +139,36 @@
   top: 50%;
   right: 20px;
   transform: translateY(-50%);
+}
+.sarcasm {
+  color: #ffc107;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 1rem;
+  margin-top: 1rem;
+  font-style: italic;
+  border-radius: 8px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1rem;
+  white-space: pre-wrap;
+  font-family: 'Courier New', monospace;
+  position: relative;
+}
+
+.sarcasm::after {
+  content: '|';
+  animation: blink 1s infinite;
+  position: absolute;
+  right: -10px;
+  top: 0;
+}
+
+@keyframes blink {
+  0%, 50%, 100% {
+    opacity: 1;
+  }
+  25%, 75% {
+    opacity: 0;
+  }
 }

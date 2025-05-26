@@ -5,17 +5,23 @@
       <h3 class="project-name">{{ project.name }}</h3>
       <p class="project-description">{{ project.description }}</p>
       <div class="project-technologies">
-        <span *ngFor="let tech of project.technologies" class="tech-chip">{{ tech }}</span>
+        <span *ngFor="let tech of project.technologies" class="tech-chip">{{
+          tech
+        }}</span>
       </div>
       <div class="project-links">
-        <a (click)="openPreview(project)" style="cursor:pointer;">Preview</a>
+        <a (click)="openPreview(project)" style="cursor: pointer">Preview</a>
         <a [href]="project.sourceUrl" target="_blank">Source</a>
       </div>
     </div>
   </cdk-virtual-scroll-viewport>
 
   <!-- Preview Modal -->
-  <div class="overlay" *ngIf="selectedVideo || selectedImages.length" (click)="closePreview()">
+  <div
+    class="overlay"
+    *ngIf="selectedVideo || selectedImages.length || sarcasticNote"
+    (click)="closePreview()"
+  >
     <div class="modal-content" (click)="$event.stopPropagation()">
       <!-- VIDEO -->
       <iframe
@@ -24,7 +30,7 @@
         frameborder="0"
         allowfullscreen
       ></iframe>
-  
+
       <!-- IMAGE GALLERY -->
       <div *ngIf="!selectedVideo && selectedImages.length">
         <img
@@ -35,7 +41,9 @@
         <button class="nav-btn left" (click)="prevImage()">←</button>
         <button class="nav-btn right" (click)="nextImage()">→</button>
       </div>
-  
+      <!-- Sarcastic Message -->
+      <div class="sarcasm" *ngIf="typedNote">{{ typedNote }}</div>
+
       <!-- Close Button -->
       <button class="close-btn" (click)="closePreview()">×</button>
     </div>
