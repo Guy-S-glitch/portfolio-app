@@ -82,7 +82,7 @@ export class ProjectsComponent implements OnInit {
         'PHP',
         'Xampp',
       ],
-      videoUrl: '',
+      videoUrl: 'assets/videos/Facial Expression & Behavior Analysis.webm',
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1mBzDCJYQxKFqWNn0tdRIJKo0lkTNYlum',
     },
@@ -91,17 +91,28 @@ export class ProjectsComponent implements OnInit {
       description:
         'Hands-on lab projects including circuit analysis, Arduino prototyping, and Multisim simulations. Documented with progress reports and multimeter measurements.',
       technologies: ['Arduino', 'Multisim', 'Circuit Design', 'Electronics'],
-      images: [''],
+      images: [
+        'assets/images/projects images/Electrical Circuits/ammeter.png',
+        'assets/images/projects images/Electrical Circuits/Full-Wave Rectifier.png',
+        'assets/images/projects images/Electrical Circuits/Oscillator.png',
+        'assets/images/projects images/Electrical Circuits/Schmitt Trigger 1.png',
+        'assets/images/projects images/Electrical Circuits/Schmitt Trigger 1.png',
+      ],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/10nw01I4RCbZngE40G62oDGrdGkTsuk8G',
     },
     {
-      name: 'Python Numeric Input Utilities',
+      name: 'Python Input Utilities',
       description:
         'A collection of Python scripts designed to practice input validation and perform basic mathematical operations on user-provided numbers.',
       technologies: ['Python', 'Input Validation', 'Control Flow'],
 
-      images: [''],
+      images: [
+        'assets/images/projects images/python/employ management.png',
+        'assets/images/projects images/python/find average.png',
+        'assets/images/projects images/python/find max and min.png',
+        'assets/images/projects images/python/higher or lower than 50.png',
+      ],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1VEa5b8ZsT38ycqIvzYDVJ_r3IrNCo079',
     },
@@ -110,7 +121,11 @@ export class ProjectsComponent implements OnInit {
       description:
         'A simple 4-to-1 multiplexer implemented in VHDL using behavioral architecture with select signals and conditional assignment.',
       technologies: ['VHDL', 'Quartus', 'FPGA'],
-      images: [''],
+      images: [
+        'assets/images/projects images/vhdl/code.png',
+        'assets/images/projects images/vhdl/design.png',
+        'assets/images/projects images/vhdl/output.png',
+      ],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1ub4pHUlD_3hQP14_AsormRpCaxOUkbz_',
     },
