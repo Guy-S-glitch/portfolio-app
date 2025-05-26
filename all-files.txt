@@ -1,0 +1,510 @@
+0e5b801fea8fde71c986bc31d77545aef6a2e11c
+0ec77ec77d42a76f82813a2d0caace4effdb463e
+15ae3d5dca894da123d60cfd9434fc4ab972a6ef
+1d7da99a0581dd18a27e906ae6b38ad20f908ec6
+23866c3355e4a7c1ea3796e4a3e5c8b615520b6c
+31471dba8b2d48882f1ca59a0f49e4821da26000
+38688409922751cdb1b000fac1ec89f949cde4bc
+3e81f5cf2dc60c4fc78f40a854da99e091893019
+4466a41541ed122cbd0f3ef293cd3650b90b2b77
+49c932d45915b064c155cc45a32790864c311367
+5172579d4542d68675f03999758972ed9ff25ff7
+64b2adc8ba271207837cd422e0da8d3cf8ae38c3
+8452728994e8c4bfe64e045223b3af7af4294da2
+abd7646a173eab75c0c3690e5946f397bd7357a0
+ac5c088340cc435b3f26525f18514c0293e5ddcb
+b9734524507d082e102c0422482e479ec067cd90
+ccd67431338b789c88e7e0f08d9460b2e2cb4d26
+d08c9f3f47934c600aed46ebc46ba713d8860704
+e15c11019e2ed7d2a9df88b28999848f7c59c43f
+e2a0918c0c27c0c63de46cad0b5ad889c4cea14f
+e4bdb1ac09add0ab44c5c394d51575d02e2fd2d3
+efa4346a856249fdfbe4e53dd819f1d799808d27
+021f1ef1c7e963a438edf998dad6afb70e21fbae 
+069ee93e1d760a9497de38f23e1ef4286b11e70b 
+227db230244865500095296870380f3e967ae9fb 
+2432261c5da5ba5bcc7f8b4690a950c4243437c5 
+45b0b94cfef7a852b2c9c0ff37c0ee708b5453dd 
+58f9bfb048e455489ac0dfc575337231970a32d9 
+592e0188827e3990b7cd8c2da58c3e5ffb90b592 
+627d2d4f3ff9eeb5aaa6eeb026c273716b7bb8e9 
+693df6f5dd5ff6d380b422baad971970e8399a2a 
+6af237e32bd402ac8c3e40b2eee5f90b9640f021 
+76075349f144ba05bb9fd9aae0112ffe1ccbbccc 
+81d1e9fa54fa05541cb28209f0f741c466003a99 
+b3151e879c9c84ebc6b8c8bf0ebdbd0f4763b32e 
+c1711df3fa2d6d234d04e25b7e7f096525b02e26 
+c22ff0d1af8fa31c2858b326d235df145b169217 
+ca838e3c9d8754ea4909250c9b60e8506f029ef8 
+d9e1e9e2db7f7a842c68ceab030536fbb55e5fa3 
+ef732d7534e9a7e9cc3ec54b34856bb3f62badcd 
+f1528c8bbcfb4aa2148cb98f2a83a3cab94facd2 
+f7cae14c344b82c88f3b5ee11e489d5938693af3 
+fd02d1ba84969895ad27c0fa0b28695146ae553e 
+ff51f0270f849d02c8a5f71e248bf152cb784adc 
+1ace652be4915373157939ceb5964a2dc0c57eb2 .angular
+289dd16b0a0842f9b205f597141d3ee6d29cdb6b .angular
+4614c686b1689b2c1a9292d45049e1ec507b1bc8 .angular
+4671a77db2574d202291277d442f4ccb5340589e .angular
+543531e641a33ad85e69ec6370adbe3a88706966 .angular
+54d6d19a9d24310575d3c2a5a5cefacc50634007 .angular
+693150f6cb27aa30ddf993ff9e86a78ea645f131 .angular
+86cc205858a6e20e90e5cb487031e977c6772695 .angular
+89a1082eedb6e84dedf6b493fc0704e062cda661 .angular
+9405c8ad1d4b321e21ea24317e9a7949f1ec80a0 .angular
+974121e81316547fffa8ec247a6dbeabd1af46f2 .angular
+acfe172c5ad5f5402f75faad3a6ef6b7f3bd1179 .angular
+b817fc12895bef99f674da9d32929a5d53d54a4e .angular
+bcd552f6f91edc3f736d302d452ef085f4e0cf8c .angular
+d0f544dff926c153824c85c2fb692feb49d1894d .angular
+db8868d34a57f2df10ea04aef2792459e79866b7 .angular
+f74c1a26d7f0a619ed83605f1de5b5f4ed279f71 .angular
+fa2a7df554e67cfada0e39d1443d4b049e18729d .angular
+260153207351b3f36887b74aaa67d69fc91d6793 .angular/cache
+2b45f74db444ba39408e1bd5e0d399afb86132f4 .angular/cache
+2f5d16992806af855c585e289bba6482ce66bdd5 .angular/cache
+2fef89edd59990adbbfeb1da938705f7533f3fd0 .angular/cache
+39c6e29df655c7a2f387c514e6ebc2a89c6c95ee .angular/cache
+4252d340df782c7a8597310bc38e5b5e52abb556 .angular/cache
+4545f48904e41f92bff53cb3cb476799949396ab .angular/cache
+582f8436063103b4da5b8d251257559d0768fc27 .angular/cache
+72127fd7feb9306f68bcffba40715fa226d11ad8 .angular/cache
+75b19739090690602e63b1df29ff8a9298aba547 .angular/cache
+78e4fc0d40cd7a7a7e0729ca01a87ec408147dd4 .angular/cache
+80411d39119ab2b48b2d55a23c727a692d784236 .angular/cache
+9a7ae0baa678073ac2f37505c06ebcd480f0f3a0 .angular/cache
+a108c9f8a1ec0283762ded502def460851e3d7f9 .angular/cache
+a7a31e5ac38908cc695bf3d31642dea9d02f7205 .angular/cache
+b8fb7437006f1e6032166218d1e0d8399ee2715b .angular/cache
+c71a62e9be0584fe894811395b0fd26ca30ad83d .angular/cache
+e0c9e04a4e1f796c695f6582b1be343ebb35a08c .angular/cache
+206f4bc66c704ff2bbda2e994ecaebe671e919dc .angular/cache/18.2.19
+30e173e508d1d8f1729a082b7a44e3ffce356300 .angular/cache/18.2.19
+31bce16385b4f347f4d04e20d1f56e65575c2a75 .angular/cache/18.2.19
+3e941e642eaa51d85efc35f2e3df7f4e52972fa8 .angular/cache/18.2.19
+3f71d9c6d3053d49b0273176da3521781f5331f4 .angular/cache/18.2.19
+48a2df884da0bdfd147f1e5adf15539c79c5dfa6 .angular/cache/18.2.19
+494f48d7bf7a7173bd8d9bec7dea34a7b8881c74 .angular/cache/18.2.19
+49971a13c93c8d5fc1bfa14630e10a4b0c66f3a4 .angular/cache/18.2.19
+561f2b5bf9978b0f6a1f4cc310b0186c7c938df7 .angular/cache/18.2.19
+76df9dc887a53666a8fdb4af876f69458f0054da .angular/cache/18.2.19
+7c6348e5f0c1f654e0e2e8ec24fb748acae18ded .angular/cache/18.2.19
+8b34b4e9f49c2f0a1946f397d94f00ef3e514039 .angular/cache/18.2.19
+94b0744d2935cf94072548152e042b72e90687b6 .angular/cache/18.2.19
+99d53cfdd545cfbd5ade4e030209383b26b9a378 .angular/cache/18.2.19
+b3cfd835a63ac87ac549029ab27c70a6deca3a06 .angular/cache/18.2.19
+b66b2a697acd230b714abf13f18df828147b5392 .angular/cache/18.2.19
+bb4357f922f56124744a87ee274c9aadebf2bf20 .angular/cache/18.2.19
+d80779bf54b504990461e229343cfe6ca0e8262d .angular/cache/18.2.19
+12573294b339393e955c7a9343301352190c9ff0 .angular/cache/18.2.19/portfolio-app
+23e652e698cb625d685787f021afecc2eefd290a .angular/cache/18.2.19/portfolio-app
+38608697ff2426883f91d54010a5f7da741cb0ad .angular/cache/18.2.19/portfolio-app
+4bd2bd876d70dd315cef8f86330325b4860bb9c8 .angular/cache/18.2.19/portfolio-app
+60f25cef73e6357af75eb09801150fed9ec241aa .angular/cache/18.2.19/portfolio-app
+63d9dd88da901fca972cd90347dcd9b5cce3a9e4 .angular/cache/18.2.19/portfolio-app
+697f6921613ebc2880cfcb1ea4b669ffd847893c .angular/cache/18.2.19/portfolio-app
+792de2a75e501fa9fdd6f27fde2c12844d45721d .angular/cache/18.2.19/portfolio-app
+8b2623fca536e2d8aa17851534b5439edddc9191 .angular/cache/18.2.19/portfolio-app
+8df29eeddb7f87b47b93a8cc1bed37a4d84c7dfc .angular/cache/18.2.19/portfolio-app
+92ebf91940d1d024536888643bf1fd589cf4650b .angular/cache/18.2.19/portfolio-app
+9e18137f9f7d3f1d70bca1306dfa5020ab0ebe50 .angular/cache/18.2.19/portfolio-app
+ba8c87744ee74aab77d8d4dc8ff35b4308658a42 .angular/cache/18.2.19/portfolio-app
+cc14cbccb036497e5a270be431445069cf9b8653 .angular/cache/18.2.19/portfolio-app
+d0191dda035620d53058a893c6a0a452b5eeb34b .angular/cache/18.2.19/portfolio-app
+e958186be2598d89ba33987de53c79d3c1eb49f2 .angular/cache/18.2.19/portfolio-app
+f3978e24ec44617fb09b2807f8dd2b182045be4e .angular/cache/18.2.19/portfolio-app
+f489a682557ffdd062e6cd424273ceafc780fb01 .angular/cache/18.2.19/portfolio-app
+032d8c233a0eb2825ccbe1bc34a92fb3152ed654 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+0c14256dea05668719d181bf7b276edbd5a2f7e4 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+267d90b5695d081c0c7aa95b0574de3571af7f55 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+31c3fa440bb1ee5c853b2b6c1147660006a3b9ef .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+3b5f3f19a6744c2e9d762666f4541a75e7a03a22 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+4180f6df427c1542a2c3f1ab01833b00cd676ac4 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+461273abc49d4102b9a985ba1f7302b59698cd5f .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+4d69261a28e3e914d96b39a0a50bbf060b106c4a .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+5aa74e61be5c9e216738425dfd4a03b554375b1a .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+63511a68d740edd94388bb87362c56623dbe4824 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+7644d237c3e7cfaff14b73dad6d2b672b2e3cec0 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+78ddb2a8fbf296f2bf2f48aacf079adcdca99a4d .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+9d46f7618072845714a687a325015ac6e181abe1 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+9eeb6b45633ae4813d0c6c7d52285390aec859b1 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+ab827f606251e6741f14c4e6930046bc9016816e .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+c9bdca673567c07f4aedad94f0ef46f517ece379 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+d388143c621ad4079a5ded3f86a18110e47c7a12 .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+e8e8e4a38f545116bb1d6be2f9e634cc6fe6005b .angular/cache/18.2.19/portfolio-app/.tsbuildinfo
+00a921ee95f9615c43fd837535a2494ddcbb78d7 .angular/cache/18.2.19/portfolio-app/vite
+0f4bc1bc2d31c82503dba85f4d157f373a140a81 .angular/cache/18.2.19/portfolio-app/vite
+3c9719e51d4752946b13691ef0f20165c088ed0e .angular/cache/18.2.19/portfolio-app/vite
+c831bba25f541f50a681cc43fe66d7f176a073af .angular/cache/18.2.19/portfolio-app/vite
+d2fff54accf4bb64db0bf7af302d70d687780e16 .angular/cache/18.2.19/portfolio-app/vite
+dbefaa1ee3790bbc2a8cafbe0a8274f37319513d .angular/cache/18.2.19/portfolio-app/vite
+edab7823685d11750c3798c0284247b1ced8c59c .angular/cache/18.2.19/portfolio-app/vite
+029bb11e926856a06091be9c28eb5dc5175b7d13 .angular/cache/18.2.19/portfolio-app/vite/deps
+2ef532455c51463447370b453e56e73c49d02259 .angular/cache/18.2.19/portfolio-app/vite/deps
+43cfda20bac25cb2cc30f29ff40680dc759ba911 .angular/cache/18.2.19/portfolio-app/vite/deps
+7246189da50725b9c05438207f0cab7debefb2cf .angular/cache/18.2.19/portfolio-app/vite/deps
+7fd32349d23f99a1044136c36c6dce36de0d0be3 .angular/cache/18.2.19/portfolio-app/vite/deps
+80d731f984684d678a0f1260493f87799e9307dc .angular/cache/18.2.19/portfolio-app/vite/deps
+94599edb4ceec2a5383ad36b5d8c231f1d451750 .angular/cache/18.2.19/portfolio-app/vite/deps
+0f3fb85bbe5cdba0a50212aace7f64756265a2a6 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_cdk_scrolling.js
+266bb52556330e0c623d292a49a278dae1167d1d .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_cdk_scrolling.js.map
+78e96f0490da150d26310441a4d1ebccc23d28c0 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_common.js
+98ec569f5fb43c272a851b4cedcad256dc08f4f6 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_common.js
+db8de94d6862eebc6aeed2e750966cf8504fbe4c .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_common.js
+98652118b6862120fb1a693020ad8654fe85851d .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_common.js.map
+380781e85a93aebdb2c38c921f5242fa2763186c .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_core.js
+985a064ae72590532942913da6d92c566574f07d .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_core.js
+eae8c6bf09dc48e003046d0e43928963a62f9635 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_core.js
+ed1e4a548167caeb344f767df6d5251d5496687a .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_core.js
+2a80c85f967f6144d63fabfea9dfc28a8e864e02 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_forms.js
+fbd843e660ec664e435f1ed6b1780f30d2bdf850 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_forms.js
+064672cf0326ae59ee1f02d22149089801a1e330 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_button.js
+5211518524c9282bd0b979617cee81318eada9d5 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_button.js
+9ec97eaa94ede28fdc310361bff6403061f9d252 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_button.js
+c979dcf92a1f86308a810f19e775ecf30d040c57 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_button.js
+09c3eaab5180416cad170c66f458c2366f7980cc .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_button.js.map
+b109e74e8072d98ea1d773728ff37eadaba03369 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_button.js.map
+8d9d5952a340c1fa66d59485b33259b3d70b3a9f .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_card.js
+e7ec6f65f2d87fbb77bc223bd2b5f1055933fbb2 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_card.js
+f7cc61d0b5235d1f4d2cc6ea317a9d96bc178464 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_card.js
+2d144f7cf965a9fee4289899aefc543e248b2811 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_card.js.map
+5aebee0afd0886a5ac9827157ef88e7cf691748e .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_card.js.map
+1c11b7a063b3c4f07d227145b193c6cf4242d0f2 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_form-field.js
+721dcddd7eb1bd8207a6c7dfbbb26db16d9a1fdd .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_form-field.js
+74d4064e279bfa7613a5ca8a48d91c868633b9ac .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_form-field.js
+4d2e048b22f37425b4336f18cb906c221745c0b2 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_icon.js
+50f536c88ecb54aa94646581aedddd740e6867b0 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_icon.js
+a27f648660b6906a0ba09dd68b6ae044edbbd1d9 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_icon.js
+d16762f3ad6f5a36d6550af66f8aee7dbf9eb97b .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_icon.js
+f4a419c607a4b09fb15efa63873ac1cc0ad2464d .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_icon.js
+7a0245c915a84b36dd69e38b383b1e476712c2db .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_icon.js.map
+edad82cb7d1545be3e3ccd139949f39b8f023931 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_icon.js.map
+18b5ae3b750b93b731397fea638426cea6917f7c .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_input.js
+9de26c91fcbcf71b13bc282658998107b33172a1 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_input.js
+bf3a9293c7055a92270084be5b104432fc513251 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_input.js
+871c93f3820adffe51e351fe06c1504317c017ac .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_input.js.map
+ae7850652a77b3e2d8add0efcf0edafc8b0ed194 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_input.js.map
+f5f4bd27ca1b4ef5f75437204012e31d0dcf7c5e .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_progress-bar.js
+0afd3ef1f1d2aa98ba344f9a9898e06479c7e258 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_progress-bar.js.map
+329606ea7432397e2491717080e052dba3a49ecc .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_toolbar.js
+746b6599cebd1e563d7fbebbd4d7e2b5dbfbd7b4 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_toolbar.js
+f253ec47a076ea9f0a241a9e6b9e870792d1aec0 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_toolbar.js
+f77d00ef15d211651478bdd351a1d28da3fbf187 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_toolbar.js
+554130ae92bef22e08013f7a212d6ab48add179d .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_toolbar.js.map
+f3cb0ea0a4cdf3f6263ff3db24bb3b199329bb0d .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_material_toolbar.js.map
+6ba1d0431c2dc9a2617132c4e9f228961d2756d8 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser.js
+7cf1b6327ef464f764da302e5f87ebc27b772f54 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser.js
+e4deccaf48de713cadee7b0a2ce379a89fa7ec14 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser.js
+ea0ed81aa44fa32ed58dfd2735dd98457de8674c .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser.js
+fea9f9d41049d3124769e32b1d4d1aa88c18bf6b .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser.js
+58fe05b8a1efe916d094f806f29f35b7079d5158 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser_animations.js
+801cad17f0dc381db5f7ef701173005a3642fcc1 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser_animations.js
+83887801e50ed7028425c1eb3ff107e631dad49d .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser_animations.js
+86841272f671faecb44dd4d2c957b66c240320a5 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser_animations.js
+873373a028aa2d30af35470775e3233ed6137420 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser_animations.js
+58e3805e7a2e01356cf8b67ec5ffd3b97aac75d8 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser_animations.js.map
+ecec5a91d8e2789cc642c86c502ed8ff0d01a4f9 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_platform-browser_animations.js.map
+51f439d2f934550a9b64bc3e7c2c7dce83f53b22 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_router.js
+5592eff96ffa875942f143aec325cb5bd948f51d .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_router.js
+79b89f4ecd0955fcfad5eabb7ea1963b01557e42 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_router.js
+85f09867525e8d1dcd1df5183b776adb080817ab .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_router.js
+9d634ee5fb430fefd60995c19a8afd191c643210 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_router.js
+0b9461f8d6550f9bc70794d8780e91670e39fda1 .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_router.js.map
+eff3d6a76688e92ca727d379971274c0ead9410b .angular/cache/18.2.19/portfolio-app/vite/deps/@angular_router.js.map
+19fc9f19bc5632797b1e88e1246d184bc3ed5038 .angular/cache/18.2.19/portfolio-app/vite/deps/_metadata.json
+4042b243b60dad18f6d66acbdfd30be575904f41 .angular/cache/18.2.19/portfolio-app/vite/deps/_metadata.json
+5a7b2656a762e44fe06554c2eed0d8e991200940 .angular/cache/18.2.19/portfolio-app/vite/deps/_metadata.json
+835744ba783f60cdc610593c2a5f63beb102c4e6 .angular/cache/18.2.19/portfolio-app/vite/deps/_metadata.json
+a50271c3f42e4021fdad5231edd768bbe3422481 .angular/cache/18.2.19/portfolio-app/vite/deps/_metadata.json
+a774f13fa75974cb2223101f49f27fff495774bd .angular/cache/18.2.19/portfolio-app/vite/deps/_metadata.json
+d4e38998b5e329c5c05f68c3561458632c562818 .angular/cache/18.2.19/portfolio-app/vite/deps/_metadata.json
+4ecbeec6d6651fa43671804d068ed6bb2d660302 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-22SYE5FW.js
+cb62d27810cf202fd6622c0e396bc20e5532ae37 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-22SYE5FW.js.map
+95312cf17bb33166ca41ef91fc95a49d7b9bbc8f .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-3XHK6KI7.js
+9aa96446b6000f62c90a6c6c1cd51332370eb2e9 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-3XUGCWKL.js
+022f318d277b2d92fb4e51f125fd538917116886 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-5QJH5NJW.js
+5c3f247260f470983e2194f0553b3e85ec89b84b .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-5QJH5NJW.js.map
+c81e6640b10f25c79ab9f0c2a83a79f1067bd6ab .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-5WUBRBSH.js
+f5890b7709471c4e2749e0945632f5de14e77ef3 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-5WUBRBSH.js.map
+b7a97c6f95325dab885cfb893a610dab468c2013 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-6WHEQTIQ.js
+0e8a5815b13ef137df072a280b6e775ddfeb17f2 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-ABLUZBAE.js
+9528eed1e10cfee63015ac1af610cc3eb237c76f .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-ABLUZBAE.js.map
+2988599779dd2297e9d7e86f0aff7243139670f4 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-AJ65VGML.js
+30eea3bb1f3204fa32172f4e2f39bb449525e27b .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-AJ65VGML.js.map
+9e43b42521d5ffde2327b647d529174f3e6ffddc .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-B5LNXNQS.js
+ac6ee7e57009fdc76ecb9a3fbfb863b5ad382cbb .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-B5LNXNQS.js.map
+ed3b25b088fb74ed49eb6298ae5ca6b965717cdc .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-F7U72CD4.js
+9110024812a9f6c85d1630c257fd82374196e2d4 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-F7U72CD4.js.map
+0593320799b28c6a06734046a1c589d7942526a5 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-FBB2P3YE.js
+b500b6527a0b804286cb6d027ee9b1b7f15b026d .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-FBB2P3YE.js.map
+6783594103adf1586b3b97b446d72ab7a10bd7ae .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-FKM2UUN6.js
+a0fa98d8de4494e586d65bf36367c2df5ed10854 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-FKM2UUN6.js.map
+0707223f50ac22dbee3a5b25ba4a60afa3e5a019 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-HSSTJRAL.js
+e85d3ee0dc8b71f619f2cdec21d5fcad6aece890 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-HSSTJRAL.js.map
+4170f06e8f86f1935613dca4e162f61b541112be .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-HUIKECLC.js
+e419e27e9b23d0b093bbc0f3e97906eeffb067b3 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-HUIKECLC.js.map
+9a674c603b951d1b4d84b87ad9eba21ab3a9473b .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-J3KSMOZS.js
+c29e5d17432b286a86d8562364bfb698b3d54b0f .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-KQ6H6VNM.js
+6f50c6ff031852ead87f9c5f7a455ccd8ecd416d .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-KQ6H6VNM.js.map
+904a8c625497c9443c027c7eb88337562075d0fd .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-KRFF75SE.js
+3380ebf35125e80e3a5da96db773d14d716bcdb2 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-KY2R2FDL.js
+617745acb9eb9194636991836f591ea3fe9af97c .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-L5EJYWAT.js
+98ba0d0f4d5bc9176f3801ed8f366cce9ffee3fc .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-L5EJYWAT.js.map
+e0f1eb0e5246a04f3a90b64a4baf1e735725f94b .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-LVQL6PWU.js
+6db6ddbde9ef920dad389c21fa0c599d162f079f .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-MBENSOCI.js
+6ba22cf9fd6a389e7887e0fd6faaa03de3e9b717 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-MBENSOCI.js.map
+c86a505e14fde4f79d549aa2ecfae70b1a3f5fcf .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-MRVSOCYD.js
+3a9c4220aba5e2b8c08cd01678aba7d359c3fa1b .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-MRVSOCYD.js.map
+4aff47fb84f2bb684c30336710cadd64146fe170 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-SFW2TF4N.js
+6425bbcf4fcf82dbd219d4f5e12654db8734ed86 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-W54IDZOF.js
+16284d45f6420d8b32eee813341768a1c47f73ab .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-YMII2NQA.js
+91f5fd81ac0a0d878d3607604ba21015a2064a58 .angular/cache/18.2.19/portfolio-app/vite/deps/chunk-YMII2NQA.js.map
+3dbc1ca591c0557e35b6004aeba250e6a70b56e3 .angular/cache/18.2.19/portfolio-app/vite/deps/package.json
+59d9a3a3e73ffc640517ef488f6f89d6270195d1 .editorconfig
+1ff0c423042b46cb1d617b81efb715defbe8054d .gitattributes
+9491a2fda28342ab358eaf234e1afe0c07a53d62 .gitignore
+cc7b141350ffde43afce3ec16ea4d7b5007cde2b .gitignore
+10d066f35a22aa8094b8d517242f3434a174f868 .vscode
+77b374577de83b86d846eadda2dd17532d7dabaa .vscode/extensions.json
+925af837050a4abe679c5fea0df7e41faf6fc011 .vscode/launch.json
+a298b5bd8796ac377fe9ed64caa249e24c7ec3b6 .vscode/tasks.json
+b0c51e30308a6bdfdf2b64e19d7af692a38b505f READ.md
+8bebbb63dcbb8f97aaf6234057c408ea82add810 README.md
+11f091c799dcf379fa64913f2780efa612b69c5a angular.json
+76463ff24c9cc36dd7be53c3246fda463caad622 angular.json
+a48be8bd0b6e5b6e0854e3c1f715eb80f61037c5 angular.json
+aa5362e8ccc15ff597c3ee35e91abf8e015f08d7 angular.json
+6728343007218f843f5dda4c61e9282d78ff6831 package-lock.json
+a097f75011b0fbec5e15940c640cda77541a6460 package-lock.json
+b20883ed34bf8e2edcdd534eec5ff98936ffc687 package-lock.json
+46c76a65f3fa02a4bb1c3f8969945efa0a9c953d package.json
+833182602927d3679211025cf5a5bca8be385885 package.json
+c3fbd1d039e604f6763d8475648d80e2b665a436 package.json
+b3f1ecf44a54372bf90afbb60491417242b8769c public
+57614f9c967596fad0a3989bec2b1deff33034f6 public/favicon.ico
+05b59fe401c37da68d3be159fcb9dadbfd0a5917 src
+17def7d0f4a7897363f43d6f992706905bd2cb95 src
+1a577b08cddd30785f696f123f1b41535a40e0d6 src
+1cbe7377363ae0a426b539feeba5fa6af0edd111 src
+279270a0c90dae7e188934d654ea377acee766a0 src
+2f09042aada0adf193bbdd41b320c550cdac5803 src
+2fa839df37ec539f0d8ae1db684e5f746baa7b51 src
+454eef395199b0119039b0fc1cd80912ee7f7d86 src
+7e53db47456b1d0b9a2f8288053d297436bba712 src
+8850f28d2aa070f2ed7fd35210f83bf9ff346085 src
+96b8af0ee28d61e7409b86434a3f1cdf78eb1cf5 src
+a32a50528ed6dc1423ad96bd14e5303ff15d75c7 src
+a736bb38390c19c823e3ceea8ed82c9b716e2f0d src
+aa089d99500e8e70d9958f1f595f4066bdc80049 src
+ae88272548af082a7f528adcc1f48300ea1c9d61 src
+bd86d3a4405b51b5b3659a858d6431058d24f0b2 src
+d08c81a4c7b8927a9a0520aaaf976e2c05a392d0 src
+d695b5eb38fd4c38191db3a48ac8743225c45492 src
+df6449cdd6dd57d891719f47a5d54967113315ea src
+e480a9814b6b0daa52f4459499998d7610c0ed79 src
+03094cae89d4b5f3bdca856e606b58438463d998 src/app
+0acde84c89893540a23529b1b016e9a43d1b56f8 src/app
+1a0f8e9de6ccce560f926bc1933d41e67b839729 src/app
+1c281c32bd0a4a1c556d0dd2d0a02537dfead8b8 src/app
+1c5cb39b4a7ef5156f6f818961d08a8ca47c79aa src/app
+2feb69b6c0367bb0cf369c0baab9996af63bd27d src/app
+4588b25eded9167e71e59b609df613dd83769ce0 src/app
+7244e573936ad9e16d1b8035fad946031c7d0193 src/app
+843da9186afa4761250f6eb84cf2b18fefb94317 src/app
+93dac4a67ae08ceea9f72c66f471edd64f8aa77c src/app
+9934d073483244035f7aefd9720fca3cb2d84364 src/app
+9afb03cbc08ebab860e95cb7fe01c95ebb78ec53 src/app
+a19f3dbf94c4a927dd58048bda9be3acf77e64ad src/app
+b664448967a6aa5902cae820a569054ea2539528 src/app
+b87a3a3e36842398e0150f5f4fc20e5cf193fcc9 src/app
+c8ff0017b6f110148b3673fe21be085c35631cab src/app
+d795344b6e39bce9436989d061e8d7617cd33ec9 src/app
+e1e35db3d40c72bd42725126047b310223ee993d src/app
+e300d7254b526e3452ce87a12c18a04b8532dbf5 src/app
+eeaefe39e182cdba0e803056eb48c43468cdb7e0 src/app
+3632bbdbb49a4b18f1961c19b20efeba4068b366 src/app/app.component.css
+5cf9d9871790b9c4178f71f90aac6620d6a4a0b2 src/app/app.component.css
+27d9c53fd066226feb0e3424de0d7d27816d877f src/app/app.component.html
+36093e1879779624f181733152bb55d71a711d3b src/app/app.component.html
+90c6b64632858139a9e4f4b1c55d0ee1d6e7b740 src/app/app.component.html
+f6e59acb65dcb595847f1639e6ec1a523a0a8b35 src/app/app.component.html
+59df25c5cbb88d2d67a10db68628fe2bdafe129c src/app/app.component.spec.ts
+1164cb32d40f66a9c37b55304ca6ed7266306ebb src/app/app.component.ts
+2739246b69fce7fc9e23bf74a76c8e7904dc2ebc src/app/app.component.ts
+58818e323b7c8f37b8ab5bd44056ee58a424675c src/app/app.component.ts
+6def2282b75bbf7adfd722f780107cb68a186369 src/app/app.component.ts
+a85ba34d091e71f418637efb0e9bc56608831a35 src/app/app.component.ts
+96116fdc72986b438ad5120c53725a4ae5cef082 src/app/app.config.ts
+a1e7d6f864c12b24d39204782ce2972f2091ca35 src/app/app.config.ts
+03372d9708f8ab74f07f981fccd1bcd3656f3cc1 src/app/app.routes.ts
+dc39edb5f23a35f788cba146dd7337127ba6c5ab src/app/app.routes.ts
+ec74df9308462680e5fb5ad5e3aa30f21a1f1385 src/app/app.routes.ts
+f28b632fff53753bb21fbfcccd2f3312c3eae49d src/app/pictures
+9f666b1ba3bfbb4d0637727894df13e66daa291b src/app/pictures/TankMekava4.png
+2e4929f3d2e071d0b7274876d8c24cbc4de734db src/app/pictures/me_irl.jpeg
+00b9f20e4c6df47cbfa4ca67646d92f9157d1aea src/app/sections
+12639351ba81de70a210b4685da18b0bf5a32d4d src/app/sections
+12bfcff5abfbed5651d27ab5df928a1bca3fbd2f src/app/sections
+21bc8429d20c78764186586f6f555f9c75edfc6a src/app/sections
+2afda7f3a18bfcae978010372df870b66cde6bc4 src/app/sections
+4919a4ee62c07e52384f4959a4fa0cfca6f93606 src/app/sections
+577b4760f2c3c99fc8ce815fd455dbe10a97431c src/app/sections
+674cf9b7c9cf9007ae063bd173a035e337a7f2a9 src/app/sections
+77fc4163f554a2b6583000eee01669853d6157f7 src/app/sections
+795ad6e912facbbc1101d42fdde8d13106be6581 src/app/sections
+7c45885bf1fcbd404f0c55ed5054ff0545243389 src/app/sections
+9ca4b3056711de3b713fb8ae5e56a1995fc1d308 src/app/sections
+bb6056cc05430ca5dc373a4c27c80ffbdebd8faf src/app/sections
+bceb8769f4774e509a2bc92bd3823cac7633bdc1 src/app/sections
+e95ace8dc12b9fb4d4bf10d56b4f38b1b869e51c src/app/sections
+f81389571994df147f935fb2efa7b5eca10a9e2a src/app/sections
+057fc73b11b147182f4271ba5f757c82f51d4db9 src/app/sections/about
+0df48917f7f4872dddafe342188038e4234da210 src/app/sections/about
+2df62b2623370e758b8493ca1c86d59e46af42a7 src/app/sections/about
+c94378a682e546e858b83f987417118241c6169c src/app/sections/about
+1830e4cbe4860e10399d2c55f38880fd23f20b54 src/app/sections/about/about.component.css
+17e2a33d99c05b0c09841bbb9c61890c29122aed src/app/sections/about/about.component.html
+9b529f4568e8ae2e2928d41e61f40c86de46a407 src/app/sections/about/about.component.html
+60979e9e0c12f9ade0182671519626bbc06088bd src/app/sections/about/about.component.spec.ts
+6a356ba31336bcdf9a61e77b1f141189567f837a src/app/sections/about/about.component.ts
+73f57bfaeecf9e9574b34bcbe904015708a3ef80 src/app/sections/about/about.component.ts
+768766b11d96721a30b554ba9181f787349c2ce7 src/app/sections/about/about.component.ts
+d8a42311992fadcbe134bf0df3ace367ed428d42 src/app/sections/about/about.component.ts
+2004768abea77945cc1f35d904049ddb3fd62416 src/app/sections/contact
+6e2f3e0ec2e842819942db06c1f632ae8878133f src/app/sections/contact
+7c791d674155eea1a9144bab3818cf5e713ff3b7 src/app/sections/contact
+8994b0978d0d5ac375d8229351cb7dd8d4b05bc2 src/app/sections/contact
+18a16bb6b3b4ff705d9d5761267b4d2eecfb85f3 src/app/sections/contact/contact.component.css
+7987c034532235e7ab57bda48fa5126922c0fee8 src/app/sections/contact/contact.component.css
+0be088567e02b8fbda0731f6742b30a2ef6e6ea9 src/app/sections/contact/contact.component.html
+93142f226170445081a0d60b6b4964ebc0ba105e src/app/sections/contact/contact.component.html
+a84b31917752d6c97f79805ae37304f95e2d5967 src/app/sections/contact/contact.component.html
+917fcd3889dc84e339229c15d8b2f0a5bec2ccb3 src/app/sections/contact/contact.component.spec.ts
+2126220a29b008243325779c41a8d53d9834b31d src/app/sections/contact/contact.component.ts
+b5c024eaed241598756f11c917754b9ecfa146c1 src/app/sections/contact/contact.component.ts
+d8d2139d2793c37cada121a736134143fe835ed3 src/app/sections/contact/contact.component.ts
+283a59631e664aff595179e87ecb851626e2c99d src/app/sections/education
+324d381271151924a03e41f71c37a6cc8719b74d src/app/sections/education
+bca9437c27326fdfa1fc6545ccb16c4741ec47fa src/app/sections/education
+f086d364f1c572e0306323dfe0b8a6007c29b64a src/app/sections/education
+494354e8b89cb29867a26fe65e9f148b26c16e1e src/app/sections/education/education.component.css
+97b1a3916842694a76ea03190674259b580123b8 src/app/sections/education/education.component.css
+6a11b3161345668becec0625328697b9bcb8835f src/app/sections/education/education.component.html
+8dd3d4c1ca5867478c917f3050e219d9cc17a018 src/app/sections/education/education.component.html
+bb33ac1074736f3c4d28766844c129b830efdc90 src/app/sections/education/education.component.html
+3e9b893ce8a44d3509d55d567cc9ed98aea883bf src/app/sections/education/education.component.spec.ts
+01d6d9b4479212d59e1c45f5bad92d0c407ccf50 src/app/sections/education/education.component.ts
+7953570f4daa7af70bc3c0057868003b1a7c1386 src/app/sections/education/education.component.ts
+c5211b422d6c0882f0f0d40e41409bbf0cab15c2 src/app/sections/education/education.component.ts
+ff81680f4751af8ea19f6ae0d4111c7eea66c932 src/app/sections/education/education.component.ts
+1b4e7232f3fc6ce7714a952976de010c63f29e45 src/app/sections/experience
+2e9e6f478fb4d43b46e0c729209d9c5e9558748d src/app/sections/experience
+4182750b313a8ed38d65b075a349428bbd5700fe src/app/sections/experience
+efad264c33d142ead2e61c8d2ef1517de99fb1dc src/app/sections/experience/experience.component.css
+24992575c8daa396ecf321067ffa8fa2a0438ea6 src/app/sections/experience/experience.component.html
+d430db720fbd9294a516248d79f11b8b2349a4ed src/app/sections/experience/experience.component.html
+0ae730de7b547fe1c7eef660f75618e80c521805 src/app/sections/experience/experience.component.spec.ts
+a55f231e024c27bd3108669dec4f5c57fb4d30ae src/app/sections/experience/experience.component.ts
+c1b0cb7302c60f27b5f8cfbbe61245779b0773f2 src/app/sections/experience/experience.component.ts
+e6caa47f8335dc57a72fe12ee0fb5d027252f966 src/app/sections/experience/experience.component.ts
+3836eff85f165b0bdf3cceab4829b5b555a4c9ff src/app/sections/projects
+3ba77dd2750a14a7ad63809c74954cb697cefd64 src/app/sections/projects
+5983d126b2b9b6e056093f70109c29790850ab5a src/app/sections/projects
+79e74de656308dba740599e2cbfa7570cbf872ca src/app/sections/projects
+afc8ba15b68faf33430eb4675dc92f07f35843e2 src/app/sections/projects
+c0cc37e93cb6d863da9852b69d1662d06e083e3b src/app/sections/projects
+dd9f47d56cd1655494905b09830ffd7dc031dde4 src/app/sections/projects
+34b67c5d5ed52ed7d7632f319960aac25c8f201a src/app/sections/projects/Project.ts
+27a5a65d0d0449cfdae85da00e85f6382bc1ca91 src/app/sections/projects/projects.component.css
+9c04ef637549f3434a9f93e103cf66c620908fdd src/app/sections/projects/projects.component.css
+b7f03a2642ac14d29c3394dbe7eaee792fa3feb6 src/app/sections/projects/projects.component.css
+da4a365ff671f124f03930e3c11e588e90353f00 src/app/sections/projects/projects.component.css
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 src/app/sections/projects/projects.component.css
+3de452c4c76517d937f12776e16e5a9a3f42a7b5 src/app/sections/projects/projects.component.html
+5944415e20a595856eca1d60dfa608bc7125f103 src/app/sections/projects/projects.component.html
+918f8f8ad40566e92508bfa69aac6ea26f0d23cb src/app/sections/projects/projects.component.html
+d38aa2b494f93101db935946a9d3521e09e715a1 src/app/sections/projects/projects.component.html
+dbf7fbc8e88e3cc15116182d007e46f2d049ab53 src/app/sections/projects/projects.component.html
+68423c6937b825e5b1dd55f373ce97487aa76986 src/app/sections/projects/projects.component.spec.ts
+5c4c49553bb76c701c2b3bb8c666d980c7c379b1 src/app/sections/projects/projects.component.ts
+74f7023c1232501d357bd49cb7e99b5c19f0f5e3 src/app/sections/projects/projects.component.ts
+8a878389e27768adcd7a5bc4bc8884833d25f92c src/app/sections/projects/projects.component.ts
+8be164468d2154ef9491a4874228f12581058e3d src/app/sections/projects/projects.component.ts
+a23e32de0dcd2eadd6b22de8dd3cfad1c7e881f4 src/app/sections/projects/projects.component.ts
+b2e9968cb531d40f36a2afa4c09bb71ebaec0372 src/app/sections/projects/projects.component.ts
+ddfb6cdd72292e421f092beec264f70e8a00bb6a src/app/sections/projects/projects.component.ts
+7855025809feac70710cf1d8845d02c5b83dbe28 src/app/sections/projects/safe-url.pipe.ts
+1bf17bf4dd3ff31145cd781f1c601fe4a3f628c9 src/app/sections/skills
+663516c774735f416fb31e1e3788b2dacd409ef3 src/app/sections/skills
+7c08e26b2c2684e527ce168d33d75545c7dafa87 src/app/sections/skills
+9c9b2b80981d7d80bede26d8eafb11e0727004b5 src/app/sections/skills
+56707e9082d0e12384e85ad6c038e59f1b1e8f83 src/app/sections/skills/skills.component.css
+787fa75019ecc59643cf7b3ba6542565b7f0bfc2 src/app/sections/skills/skills.component.css
+53d70a513268c3cd92df549d4f3e6033649f9bfd src/app/sections/skills/skills.component.html
+e298fd5ad49aa8eb7a4f822214b8a4417fc1fcd7 src/app/sections/skills/skills.component.html
+fd4e5ae4b8c487d1798ebe72d44df5a8a957e382 src/app/sections/skills/skills.component.html
+a0245aeba83682763f62c4dbce4f68d23cbc205b src/app/sections/skills/skills.component.spec.ts
+4153ca9e2f1853a16997a574f834a3e186162d0a src/app/sections/skills/skills.component.ts
+5ea38e027ebb0891a32cc94b1f599f5d613aa2fc src/app/sections/skills/skills.component.ts
+a7aa2682565eac0b55c34ce44c8dbacd8fffa971 src/app/sections/skills/skills.component.ts
+ce282ff12cfafb1b77a0b08d95af45204f00d168 src/app/sections/skills/skills.component.ts
+01ccbc750490d6e63fd23386caec0a8c54ba97b9 src/assets
+2164e3e24c1ddf29d397e32f0be904eee3d2cb70 src/assets
+763e6760ef92c29b198a141356ec77e4398b7a01 src/assets
+b1e113f7576ce6f7402ba60a255ba094de9b12e2 src/assets
+be81ca9053ed54241002badcefba4f98d6ea438e src/assets
+fef05a7d62a0eb12209b355d0669d54d646bbbec src/assets
+02d65ddd048683fceed05a393cb239f4f4bc0c59 src/assets/icons
+0fd3c98ddedd8d419cf73afb00c8aac98fa795c9 src/assets/icons/Backend & Tools
+6a07c85815444afef85a359d9ce6d6830f494560 src/assets/icons/Backend & Tools/csharp.svg
+1cadbd626018f4ae26095c1ebcf0657bd8df290c src/assets/icons/Backend & Tools/firebase.svg
+bb7c4ce16e3bf1b5de3f9b1c9baf749a98baa992 src/assets/icons/Backend & Tools/github.svg
+53371d09bb97b92d6cf143eaa98f01db5597efbf src/assets/icons/Backend & Tools/mysql.svg
+b6d78bdee40faf957d11bcb81dbeb8ed62725714 src/assets/icons/Backend & Tools/nodejs.svg
+25df8268f796e11f47274288f57ec04453ba0381 src/assets/icons/Backend & Tools/python.svg
+2f51ea554e085e82cd03357d353c6e695ea1fa84 src/assets/icons/Electronics & Hardware
+9464f9f77f77c5a00d4350902a65c476a0c606df src/assets/icons/Electronics & Hardware/arduino.svg
+82e652191d1dd5b1f4a2514951a91aa630213716 src/assets/icons/Electronics & Hardware/circuit.svg
+b9158bd82f867b212adee1a93c4d60a23920f9d1 src/assets/icons/Electronics & Hardware/soldering.svg
+191fed3d8acb39077aa191d1cfbca1338b899ab9 src/assets/icons/Electronics & Hardware/tools.svg
+60e3b5f40e543ca2f8f9a03db7dc7730c0d8f727 src/assets/icons/Frontend
+cfff7adb36fb4e937303cfa63e08d2f16dbfefd5 src/assets/icons/Frontend/angular.svg
+b7f50fd28583842ef36cdb6437ad0fd33a6f717d src/assets/icons/Frontend/css3.svg
+75b19797d142e0d9c29894580e6310bb2f78fb96 src/assets/icons/Frontend/html5.svg
+4bf36f85df0e9922729c547fa5f1bc4fb519509a src/assets/icons/Frontend/typescript.svg
+47d59197e35e5b899b1c213fbffe60d08af79f7b src/assets/icons/Soft Skills
+ff9468383bcbd97cf5fcbeed3eefc00814dc838a src/assets/icons/Soft Skills/adaptability.svg
+9014e9d52277fbf2b960453bd3ea323dace922e2 src/assets/icons/Soft Skills/leadership.svg
+868890bc826edd1d53fe8456e8c26d544dd000c9 src/assets/icons/Soft Skills/resilience.svg
+225e0f75228e7dd25e1c890a25acd90a62900915 src/assets/icons/Soft Skills/teamwork.svg
+3176b6ba60ef9f98ce01d7afbe16c4d4abd8b09e src/assets/images
+5291eb3a31489c73d40a07bb822a3ae4c5bb14f3 src/assets/images
+cab69dc2ccbcac4f8aa69ebe7da6e4acea35886b src/assets/images
+ed921c016ec0cfd95e7a398093d892d732e8f975 src/assets/images
+0935db99322829fbf534859aface667b52060e43 src/assets/images/Chance_To_Change.png
+dcdbaafc12e67e522361be1356eb8b4c21cd2f89 src/assets/images/Diploma.png
+146b4cb7d5c458d466999ebe048bc40927af53bb src/assets/images/Hasmacha.png
+b7c976389880f4b911b7065a873de088345a7a14 src/assets/images/Reshef_Technologies.jpeg
+2c7373814b5350d9b4ee83f63c93b294ed9c2564 src/assets/images/Rocket & Bombs.png
+070a96a12f16a00ee0d3876e4db4c3378bceb4fc src/assets/images/Will_To_Wheel.jpeg
+dbe8c223219d266a52a967326dc9f9de15ff1241 src/assets/images/projects images
+11b8db542e598e27e45c8f3bde15d9b8e6b101f2 src/assets/images/projects images/signal prosessing
+e6e0a081c4d67913ffb03d060840e15c78bad4fa src/assets/images/projects images/signal prosessing/exponential function.png
+f6e6d12d8b8f3afdcb1e77daa3ea3e82fd723b89 src/assets/images/projects images/signal prosessing/sinc function.png
+e1837fc97c5ca7699ef0cc71e9bb057ccd6aa932 src/assets/images/projects images/signal prosessing/sine and cosine in different frequency.png
+02e6880232b4a20d9ec0cf72ef782c1d86a10ffe src/assets/videos
+6598ec810e674c2a49eb0768389d96ca58bc4072 src/assets/videos
+999d452ea429bc2fd295b88aef01031d89898848 src/assets/videos/Bomb & Rocket gameplay.mp4
+60c835e574ab79ffb3fb11f56b6942c971acc311 src/assets/videos/house finance managment.mp4
+be5e66f003efefff24ff74ee7adc09304032c75b src/assets/videos/shopping list.mp4
+c9a99dfa9dc0f066124f5ae525e1f851aea18108 src/assets/videos/smart house.MOV
+a30017c6c4e00d76254da05ab8156e365bb56f50 src/index.html
+f0ce9938023dc3f18d89f7311ff60d6afd0ef6dd src/index.html
+35b00f3463311f2afe0fd0d9d5f696dbb992dff5 src/main.ts
+8229c7df85ada0fe1d163723a2716b51ee8da149 src/main.ts
+7e7239a2eeea2a25f548d2e04302921d28c2a27e src/styles.css
+90d4ee0072ce3fc41812f8af910219f9eea3c3de src/styles.css
+e1978d949baa9afde6f44999f0999409f8c321cf src/styles.css
+3775b37e3bbc6659e266676de37fffdd7cfebb5c tsconfig.app.json
+a9ae8b0690e079ce0f7a61070c3dd15460a91150 tsconfig.json
+5fb748d9207a99686549d6ef1415527dc544dd0f tsconfig.spec.json
