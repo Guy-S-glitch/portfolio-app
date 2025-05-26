@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { ScrollingModule } from '@angular/cdk/scrolling';
 import { CommonModule } from '@angular/common';
 import { SafeUrlPipe } from './safe-url.pipe';
+import { Project } from './Project';
+
 @Component({
   selector: 'app-projects',
   imports: [CommonModule, ScrollingModule, SafeUrlPipe],
@@ -11,15 +13,17 @@ import { SafeUrlPipe } from './safe-url.pipe';
 })
 export class ProjectsComponent implements OnInit {
   constructor() {}
-  selectedPreviewUrl: string | null = null;
 
-  projects = [
+  selectedImages: string[] = [];
+  selectedVideo: string | null = null;
+  currentImageIndex = 0;
+  projects: Project[] = [
     {
       name: 'Portfolio Website',
       description:
         'personal portfolio built with Angular. Designed to showcase projects, skills, and experience with a minimalist layout.',
       technologies: ['Angular', 'CSS', 'HTML'],
-      previewUrl: ' ',
+      videoUrl: ' ',
       sourceUrl: 'https://github.com/Guy-S-glitch/portfolio-app',
     },
     {
@@ -27,7 +31,7 @@ export class ProjectsComponent implements OnInit {
       description:
         'My first Angular project, focused on learning the framework fundamentals as a foundation for future independent projects.',
       technologies: ['Angular', 'CSS', 'HTML', 'Firebase'],
-      previewUrl: 'assets/videos/shopping list.mp4',
+      videoUrl: 'assets/videos/shopping list.mp4',
       sourceUrl: 'https://github.com/Guy-S-glitch/Shoping-list-Recipe-Book',
     },
     {
@@ -35,7 +39,7 @@ export class ProjectsComponent implements OnInit {
       description:
         'A C# WinForms application for managing family finances, featuring a virtual house with customizable residents, income, expenses, and visual financial insights.',
       technologies: ['C#', 'MySQL'],
-      previewUrl: ' ',
+      videoUrl: ' ',
       sourceUrl: 'https://github.com/Guy-S-glitch/House-Finance-Manager',
     },
     {
@@ -43,7 +47,7 @@ export class ProjectsComponent implements OnInit {
       description:
         'A C# console game inspired by Snakes and Ladders, featuring rockets that boost progress and bombs that cause setbacks.',
       technologies: ['C#'],
-      previewUrl: ' ',
+      videoUrl: ' ',
       sourceUrl: 'https://github.com/Guy-S-glitch/BombRocketGame',
     },
     {
@@ -61,7 +65,7 @@ export class ProjectsComponent implements OnInit {
         'JavaScript',
         'Python',
       ],
-      previewUrl: '',
+      videoUrl: '',
       sourceUrl:
         'https://drive.google.com/drive/folders/1hfa5ezny00AOpq-23K9BCG1LlXaFHZIM?usp=drive_link',
     },
@@ -78,7 +82,7 @@ export class ProjectsComponent implements OnInit {
         'PHP',
         'Xampp',
       ],
-      previewUrl: '',
+      videoUrl: '',
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1mBzDCJYQxKFqWNn0tdRIJKo0lkTNYlum',
     },
@@ -87,7 +91,7 @@ export class ProjectsComponent implements OnInit {
       description:
         'Hands-on lab projects including circuit analysis, Arduino prototyping, and Multisim simulations. Documented with progress reports and multimeter measurements.',
       technologies: ['Arduino', 'Multisim', 'Circuit Design', 'Electronics'],
-      previewUrl: '',
+      images: [''],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/10nw01I4RCbZngE40G62oDGrdGkTsuk8G',
     },
@@ -97,7 +101,7 @@ export class ProjectsComponent implements OnInit {
         'A collection of Python scripts designed to practice input validation and perform basic mathematical operations on user-provided numbers.',
       technologies: ['Python', 'Input Validation', 'Control Flow'],
 
-      previewUrl: '',
+      images: [''],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1VEa5b8ZsT38ycqIvzYDVJ_r3IrNCo079',
     },
@@ -106,7 +110,7 @@ export class ProjectsComponent implements OnInit {
       description:
         'A simple 4-to-1 multiplexer implemented in VHDL using behavioral architecture with select signals and conditional assignment.',
       technologies: ['VHDL', 'Quartus', 'FPGA'],
-      previewUrl: '',
+      images: [''],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1ub4pHUlD_3hQP14_AsormRpCaxOUkbz_',
     },
@@ -115,19 +119,35 @@ export class ProjectsComponent implements OnInit {
       description:
         'A project focused on applying core signal processing techniques such as time shifting, time reversal, and time scaling.',
       technologies: ['Signal Processing', 'MATLAB', 'Time-Domain Analysis'],
-      previewUrl: '',
+      images: [
+        'assets/images/projects images/signal prosessing/exponential function.png',
+        'assets/images/projects images/signal prosessing/sinc function.png',
+        'assets/images/projects images/signal prosessing/sine and cosine in different frequency.png',
+      ],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/16tQMRIS5TcbVeD84cauBC8oqbDFISOQ0',
     },
-
-    // Add more projects as needed
   ];
-  openPreview(url: string) {
-    this.selectedPreviewUrl = url;
+  openPreview(project: Project) {
+    this.selectedVideo = project.videoUrl || null;
+    this.selectedImages = project.images || [];
+    this.currentImageIndex = 0;
   }
 
   closePreview() {
-    this.selectedPreviewUrl = null;
+    this.selectedImages = [];
+    this.selectedVideo = null;
+  }
+
+  nextImage() {
+    this.currentImageIndex =
+      (this.currentImageIndex + 1) % this.selectedImages.length;
+  }
+
+  prevImage() {
+    this.currentImageIndex =
+      (this.currentImageIndex - 1 + this.selectedImages.length) %
+      this.selectedImages.length;
   }
   ngOnInit() {}
 }

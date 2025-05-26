@@ -8,20 +8,35 @@
         <span *ngFor="let tech of project.technologies" class="tech-chip">{{ tech }}</span>
       </div>
       <div class="project-links">
-        <a (click)="openPreview(project.previewUrl)" style="cursor:pointer;">Live Demo</a>
+        <a (click)="openPreview(project)" style="cursor:pointer;">Preview</a>
         <a [href]="project.sourceUrl" target="_blank">Source Code</a>
       </div>
     </div>
   </cdk-virtual-scroll-viewport>
 
   <!-- Preview Modal -->
-  <div class="overlay" *ngIf="selectedPreviewUrl" (click)="closePreview()">
+  <div class="overlay" *ngIf="selectedVideo || selectedImages.length" (click)="closePreview()">
     <div class="modal-content" (click)="$event.stopPropagation()">
+      <!-- VIDEO -->
       <iframe
-        [src]="selectedPreviewUrl | safeUrl"
+        *ngIf="selectedVideo"
+        [src]="selectedVideo | safeUrl"
         frameborder="0"
         allowfullscreen
       ></iframe>
+  
+      <!-- IMAGE GALLERY -->
+      <div *ngIf="!selectedVideo && selectedImages.length">
+        <img
+          [src]="selectedImages[currentImageIndex]"
+          class="gallery-image"
+          alt="Project Image"
+        />
+        <button class="nav-btn left" (click)="prevImage()">←</button>
+        <button class="nav-btn right" (click)="nextImage()">→</button>
+      </div>
+  
+      <!-- Close Button -->
       <button class="close-btn" (click)="closePreview()">×</button>
     </div>
   </div>
