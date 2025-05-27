@@ -21,7 +21,7 @@ export class ExperienceComponent {
         'Held responsibilities in logistics, cooking, and group coordination.',
         'Contributed to civic engagement, ethical discussions, and community projects.',
       ],
-      imageUrl: '../../assets/images/Chance_To_Change.png',
+      imageUrl: 'assets/images/experience images/Chance_To_Change.png',
     },
     {
       year: '2024 - 2025',
@@ -32,7 +32,7 @@ export class ExperienceComponent {
         'Adapted solutions to specific user needs, improving comfort and reliability.',
         'Developed practical problem-solving skills and customer service experience.',
       ],
-      imageUrl: '../../assets/images/Will_To_Wheel.jpeg',
+      imageUrl: 'assets/images/experience images/Will_To_Wheel.jpeg',
     },
     {
       year: '2023 - 2024',
@@ -42,7 +42,7 @@ export class ExperienceComponent {
         ' Demonstrated deep understanding of complex electronic systems ',
         ' identified faults in electronic boards using a Fluke multimeter.',
       ],
-      imageUrl: '../../assets/images/Reshef_Technologies.jpeg',
+      imageUrl: 'assets/images/experience images/Reshef_Technologies.jpeg',
     },
     // Add more entries as needed
   ];

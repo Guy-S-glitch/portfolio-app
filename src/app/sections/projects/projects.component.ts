@@ -34,7 +34,7 @@ export class ProjectsComponent implements OnInit {
       description:
         'My first Angular project, focused on learning the framework fundamentals as a foundation for future independent projects.',
       technologies: ['Angular', 'CSS', 'HTML', 'Firebase'],
-      videoUrl: 'assets/videos/shopping list.mp4',
+      videoUrl: 'assets/videos/project videos/shopping list.mp4',
       sourceUrl: 'https://github.com/Guy-S-glitch/Shoping-list-Recipe-Book',
     },
     {
@@ -42,7 +42,7 @@ export class ProjectsComponent implements OnInit {
       description:
         'A C# WinForms application for managing family finances, featuring a virtual house with customizable residents, income, expenses, and visual financial insights.',
       technologies: ['C#', 'MySQL'],
-      videoUrl: 'assets/videos/house finance managment.mp4',
+      videoUrl: 'assets/videos/project videos/house finance managment.mp4',
       sourceUrl: 'https://github.com/Guy-S-glitch/House-Finance-Manager',
     },
     {
@@ -50,7 +50,7 @@ export class ProjectsComponent implements OnInit {
       description:
         'A C# console game inspired by Snakes and Ladders, featuring rockets that boost progress and bombs that cause setbacks.',
       technologies: ['C#'],
-      videoUrl: 'assets/videos/Bomb & Rocket gameplay.mp4',
+      videoUrl: 'assets/videos/project videos/Bomb & Rocket gameplay.mp4',
       sourceUrl: 'https://github.com/Guy-S-glitch/BombRocketGame',
     },
     {
@@ -68,7 +68,7 @@ export class ProjectsComponent implements OnInit {
         'JavaScript',
         'Python',
       ],
-      videoUrl: 'assets/videos/smart house.MOV',
+      videoUrl: 'assets/videos/project videos/smart house.MOV',
       sourceUrl:
         'https://drive.google.com/drive/folders/1hfa5ezny00AOpq-23K9BCG1LlXaFHZIM?usp=drive_link',
     },
@@ -85,7 +85,7 @@ export class ProjectsComponent implements OnInit {
         'PHP',
         'Xampp',
       ],
-      videoUrl: 'assets/videos/Facial Expression & Behavior Analysis.webm',
+      videoUrl: 'assets/videos/project videos/Facial Expression & Behavior Analysis.webm',
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1mBzDCJYQxKFqWNn0tdRIJKo0lkTNYlum',
     },
