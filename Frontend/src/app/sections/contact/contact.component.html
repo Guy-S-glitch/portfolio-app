@@ -1,0 +1,31 @@
+<mat-card class="contact-card">
+  <h2>Contact Me</h2>
+  <form [formGroup]="contactForm" (ngSubmit)="onSubmit()" class="contact-form">
+    <mat-form-field appearance="fill">
+      <mat-label>Name</mat-label>
+      <input matInput formControlName="name" required />
+    </mat-form-field>
+  
+    <mat-form-field appearance="fill">
+      <mat-label>Email</mat-label>
+      <input matInput formControlName="email" required />
+    </mat-form-field>
+  
+    <mat-form-field appearance="fill">
+      <mat-label>Message</mat-label>
+      <textarea matInput formControlName="message" rows="5" required></textarea>
+    </mat-form-field>
+  
+    <button
+  mat-raised-button
+  color="primary"
+  type="submit"
+  [disabled]="isSubmitting || contactForm.invalid"
+>
+  {{ isSubmitting ? 'Sending...' : 'Send' }}
+</button>
+  
+    <p *ngIf="submitted" class="success">Message sent successfully!</p>
+    <p *ngIf="error" class="error">{{ error }}</p>
+  </form>
+</mat-card>

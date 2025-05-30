@@ -1,0 +1,29 @@
+<mat-toolbar color="primary" class="mat-elevation-z4">
+    <!-- Your Name -->
+    <span class="title">Guy Solomon</span>
+  
+    <!-- push nav buttons to center -->
+    <span class="spacer"></span>
+  
+    <!-- Intra-app navigation -->
+    <a mat-button routerLink="/about">About</a>
+    <a mat-button routerLink="/education">Education</a>
+    <a mat-button routerLink="/experience">Experience</a>
+    <a mat-button routerLink="/projects">Projects</a>
+    <a mat-button routerLink="/skills">Skills</a>
+    <a mat-button routerLink="/contact">Contact</a>
+  
+    <span class="spacer"></span>
+  
+    <!-- External links -->
+    <a href="https://github.com/Guy-S-glitch" target="_blank" rel="noopener">
+      <mat-icon>code</mat-icon>
+    </a>
+    <a href="https://www.linkedin.com/in/guy-solomon-5b23952b4/" target="_blank" rel="noopener">
+      <mat-icon>business_center</mat-icon>
+    </a>
+  </mat-toolbar>
+  <div class="content-container">
+    <router-outlet></router-outlet>
+  </div>
+  
