@@ -26,7 +26,7 @@ app.post('/api/contact', async (req, res) => {
   
     const mailOptions = {
       from: email,
-      to: process.env.EMAIL_PASS,
+      to: process.env.EMAIL_USER,
       subject: `Message from ${name}`,
       text: message
     };
