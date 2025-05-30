@@ -22,13 +22,13 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-# Run the backend:
+## Run the backend:
 
 go to teminal
 cd to your project/backend
 node server.js
 
-Run your Angular frontend:
+## Run your Angular frontend:
 
 go to teminal
 cd to your project/frontend
