@@ -1,7 +1,3 @@
-Here’s a cleaned-up and more polished version of your `README.md` file, with improved formatting, clarity, and structure for better readability on GitHub:
-
----
-
 # 📁 PortfolioApp
 
 A full-stack portfolio application built with Angular (frontend) and Node.js (backend).
@@ -79,7 +75,3 @@ ng help
 
 Or visit the official Angular documentation:
 👉 [Angular CLI Overview & Command Reference](https://angular.dev/tools/cli)
-
----
-
-Let me know if you'd like to add badges, screenshots, or deployment instructions!
