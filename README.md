@@ -1,31 +1,85 @@
-# PortfolioApp
+Here’s a cleaned-up and more polished version of your `README.md` file, with improved formatting, clarity, and structure for better readability on GitHub:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+---
 
-## Setup
+# 📁 PortfolioApp
 
-Create a `.env` file in the `backend/` directory:
+A full-stack portfolio application built with Angular (frontend) and Node.js (backend).
 
-## Development server
+> Generated using [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🚀 Quick Start
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 1. Backend Setup
 
-## Build
+Create a `.env` file in the `backend/` directory.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Then start the backend server:
 
-## Running unit tests
+```bash
+cd backend
+node server.js
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 2. Frontend Setup
 
-## Running end-to-end tests
+Serve the Angular application:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+cd frontend
+ng serve
+```
 
-## Further help
+Navigate to: [http://localhost:4200](http://localhost:4200)
+The app will auto-reload if you change any source files.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
+
+## 🛠 Development Commands
+
+### Code Scaffolding
+
+Generate a new component or other Angular construct:
+
+```bash
+ng generate component component-name
+# or
+ng generate directive|pipe|service|class|guard|interface|enum|module
+```
+
+### Build the Project
+
+```bash
+ng build
+```
+
+The build output will be in the `dist/` directory.
+
+### Run End-to-End Tests
+
+To execute E2E tests:
+
+```bash
+ng e2e
+```
+
+> You may need to install a package that provides e2e testing capabilities.
+
+---
+
+## 📚 Need Help?
+
+Use:
+
+```bash
+ng help
+```
+
+Or visit the official Angular documentation:
+👉 [Angular CLI Overview & Command Reference](https://angular.dev/tools/cli)
+
+---
+
+Let me know if you'd like to add badges, screenshots, or deployment instructions!
