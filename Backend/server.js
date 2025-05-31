@@ -27,7 +27,7 @@ app.post('/api/contact', async (req, res) => {
     const mailOptions = {
       from: email,
       to: process.env.EMAIL_USER,
-      subject: `Message from ${name}`,
+      subject: `Message from ${name} from portfolio app`,
       text: message
     };
   
@@ -41,7 +41,7 @@ app.post('/api/contact', async (req, res) => {
   });
   
 
-const PORT = 3000;
-app.listen(PORT, () => {
+  const PORT = process.env.PORT || 3000;
+  app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
