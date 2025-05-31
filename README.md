@@ -3,6 +3,8 @@
 A full-stack portfolio application built with Angular (frontend) and Node.js (backend).
 
 > Generated using [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+> 
+🌐 **Live Demo**: [https://guy-solomom-portfolio.netlify.app](https://guy-solomom-portfolio.netlify.app)  
 
 ---
 
