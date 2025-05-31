@@ -6,6 +6,8 @@ import { MatCardModule } from '@angular/material/card';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
+import { environment } from '../../../environments/environment.prod';
+
 
 @Component({
   selector: 'app-contact',
@@ -37,20 +39,23 @@ export class ContactComponent {
 
   onSubmit() {
     if (this.contactForm.invalid) return;
+    // this.http.post(`${environment.apiUrl}/api/contact`, formData);
 
     this.isSubmitting = true;
-    this.http.post('http://localhost:3000/api/contact', this.contactForm.value).subscribe({
-      next: () => {
-        this.submitted = true;
-        this.contactForm.reset();
-        this.isSubmitting = false;
-      },
-      error: err => {
-        this.error = 'Failed to send message.';
-        console.error(err);
-        this.isSubmitting = false;
-      }
-    });
+    this.http
+      .post(`${environment.apiUrl}/api/contact`, this.contactForm.value)
+      .subscribe({
+        next: () => {
+          this.submitted = true;
+          this.contactForm.reset();
+          this.isSubmitting = false;
+        },
+        error: (err) => {
+          this.error = 'Failed to send message.';
+          console.error(err);
+          this.isSubmitting = false;
+        },
+      });
   }
 
   ngOnInit() {}
