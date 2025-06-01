@@ -3,7 +3,12 @@
   <div class="timeline">
     <div class="timeline-item" *ngFor="let entry of educationEntries">
       <div class="timeline-content">
-        <img [src]="entry.imageUrl" alt="{{ entry.institution }} logo" class="institution-logo" />
+        <img
+          loading="lazy"
+          [src]="entry.imageUrl"
+          alt="{{ entry.institution }} logo"
+          class="institution-logo"
+        />
         <div class="details">
           <h3>{{ entry.degree }}</h3>
           <h4>{{ entry.institution }}</h4>

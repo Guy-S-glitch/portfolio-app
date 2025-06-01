@@ -32,7 +32,7 @@ export class ExperienceComponent {
         'Adapted solutions to specific user needs, improving comfort and reliability.',
         'Developed practical problem-solving skills and customer service experience.',
       ],
-      imageUrl: 'assets/images/experience images/Will_To_Wheel.jpeg',
+      imageUrl: 'assets/images/experience images/Will_To_Wheel.webp',
     },
     {
       year: '2023 - 2024',
@@ -42,8 +42,7 @@ export class ExperienceComponent {
         ' Demonstrated deep understanding of complex electronic systems ',
         ' identified faults in electronic boards using a Fluke multimeter.',
       ],
-      imageUrl: 'assets/images/experience images/Reshef_Technologies.jpeg',
+      imageUrl: 'assets/images/experience images/Reshef_Technologies.webp',
     },
-    // Add more entries as needed
   ];
 }

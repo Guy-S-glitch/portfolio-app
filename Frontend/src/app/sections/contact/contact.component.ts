@@ -39,7 +39,6 @@ export class ContactComponent {
 
   onSubmit() {
     if (this.contactForm.invalid) return;
-    // this.http.post(`${environment.apiUrl}/api/contact`, formData);
 
     this.isSubmitting = true;
     this.http

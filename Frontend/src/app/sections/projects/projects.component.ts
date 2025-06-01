@@ -95,11 +95,11 @@ export class ProjectsComponent implements OnInit {
         'Hands-on lab projects including circuit analysis, Arduino prototyping, and Multisim simulations. Documented with progress reports and multimeter measurements.',
       technologies: ['Arduino', 'Multisim', 'Circuit Design', 'Electronics'],
       images: [
-        'assets/images/projects images/Electrical Circuits/ammeter.png',
-        'assets/images/projects images/Electrical Circuits/Full-Wave Rectifier.png',
-        'assets/images/projects images/Electrical Circuits/Oscillator.png',
-        'assets/images/projects images/Electrical Circuits/Schmitt Trigger 1.png',
-        'assets/images/projects images/Electrical Circuits/Schmitt Trigger 1.png',
+        'assets/images/projects images/Electrical Circuits/ammeter.webp',
+        'assets/images/projects images/Electrical Circuits/Full-Wave Rectifier.webp',
+        'assets/images/projects images/Electrical Circuits/Oscillator.webp',
+        'assets/images/projects images/Electrical Circuits/Schmitt Trigger 1.webp',
+        'assets/images/projects images/Electrical Circuits/Schmitt Trigger 1.webp',
       ],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/10nw01I4RCbZngE40G62oDGrdGkTsuk8G',
@@ -111,10 +111,10 @@ export class ProjectsComponent implements OnInit {
       technologies: ['Python', 'Input Validation', 'Control Flow'],
 
       images: [
-        'assets/images/projects images/python/employ management.png',
-        'assets/images/projects images/python/find average.png',
-        'assets/images/projects images/python/find max and min.png',
-        'assets/images/projects images/python/higher or lower than 50.png',
+        'assets/images/projects images/python/employ management.webp',
+        'assets/images/projects images/python/find average.webp',
+        'assets/images/projects images/python/find max and min.webp',
+        'assets/images/projects images/python/higher or lower than 50.webp',
       ],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1VEa5b8ZsT38ycqIvzYDVJ_r3IrNCo079',
@@ -125,9 +125,9 @@ export class ProjectsComponent implements OnInit {
         'A simple 4-to-1 multiplexer implemented in VHDL using behavioral architecture with select signals and conditional assignment.',
       technologies: ['VHDL', 'Quartus', 'FPGA'],
       images: [
-        'assets/images/projects images/vhdl/code.png',
-        'assets/images/projects images/vhdl/design.png',
-        'assets/images/projects images/vhdl/output.png',
+        'assets/images/projects images/vhdl/code.webp',
+        'assets/images/projects images/vhdl/design.webp',
+        'assets/images/projects images/vhdl/output.webp',
       ],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/1ub4pHUlD_3hQP14_AsormRpCaxOUkbz_',
@@ -138,9 +138,9 @@ export class ProjectsComponent implements OnInit {
         'A project focused on applying core signal processing techniques such as time shifting, time reversal, and time scaling.',
       technologies: ['Signal Processing', 'MATLAB', 'Time-Domain Analysis'],
       images: [
-        'assets/images/projects images/signal prosessing/exponential function.png',
-        'assets/images/projects images/signal prosessing/sinc function.png',
-        'assets/images/projects images/signal prosessing/sine and cosine in different frequency.png',
+        'assets/images/projects images/signal prosessing/exponential function.webp',
+        'assets/images/projects images/signal prosessing/sinc function.webp',
+        'assets/images/projects images/signal prosessing/sine and cosine in different frequency.webp',
       ],
       sourceUrl:
         'https://drive.google.com/drive/u/0/folders/16tQMRIS5TcbVeD84cauBC8oqbDFISOQ0',
